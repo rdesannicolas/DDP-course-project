@@ -12,3 +12,6 @@ This application allows us to see the effect of the change in those parameters u
  - **Plot tab** : this tab shows the scatterplot between the 2 x and y variables you have selected in the left side panel. The number of points plotted evolves depending on the number of observations you choose with the slider. Futrhermore, a red line is plotted, which represent the linear model fitted for those 2 variables and for the number of observations selected. So the line varies depending on the variables and also depending on the number of observations. 
  - **Fit Summary tab** : you can fin here a summary of the linear model that has been fitted in regard of the parameters you have choosen. 
  - **Dataset tab** : you can have a look at the whole dataset, which is truncated in regard of the number of observations you have selected with the slider on the left side panel.
+ 
+The code files for this shiny app can be found on GitHub at the following link :
+<https://github.com/rdesannicolas/DDP-course-project>
